@@ -1,0 +1,14 @@
+var nomedeusuario = 'Nome de usuario: Fulano.';
+var senha = ' Senha: exemplo123';
+var login = nomedeusuario + senha;
+console.log(login);
+var idade = 'Idade: 18 anos, data de nascimento: 22/08/2003';
+var data = ' Data do cadastro: 10/09/2021 data limite: 17/09/2021';
+var idadeedata = idade + data;
+console.log(idadeedata);
+var participante = 'Participante N° 73.';
+var palestrante = ' O usuario não é palestrante.';
+var palestranteparticipante = participante + palestrante;
+console.log(palestranteparticipante);
+var boasvindas = 'Bem vindo ao evento!';
+console.log(boasvindas);
